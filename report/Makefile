@@ -1,4 +1,4 @@
-all: main tableofcontents
+all: main tableofcontents 
 
 main: main.tex
 	pdflatex main.tex
